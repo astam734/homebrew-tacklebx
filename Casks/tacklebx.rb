@@ -1,10 +1,10 @@
 cask "tacklebx" do
-  version "0.19.9"
-  sha256 "be9e94ea97aac13601e86f0d4f97f56dfc15e6364a6e51b2bda60101b0bc2621"
+  version "0.20.60"
+  sha256 "c6f22399ab8817870afdb57257d07393d25dd55582c226ca8dd878daab7eeeb2"
 
-  url "https://github.com/astam734/tacklebx-releases/releases/download/v0.19.9/Tacklebx_0.19.9_dmg53_1c832585_aarch64.dmg"
+  url "https://github.com/astam734/tacklebx-releases/releases/download/v0.20.60/Tacklebx_0.20.60_dmg114_f3a4d9c0_aarch64.dmg"
   name "Tacklebx"
-  desc "Course-production studio for professors, running on your own Mac and your own AI subscription"
+  desc "AI-assisted tool for professors and students alike"
   homepage "https://updates.tacklebx.com/"
 
   depends_on arch: :arm64
