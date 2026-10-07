@@ -1,8 +1,8 @@
 cask "tacklebx" do
-  version "0.20.78"
-  sha256 "1df674285dfcce2f7f6da22118ddf96a609ab88ebd216730d44b5dec1f133137"
+  version "0.20.81"
+  sha256 "4885ec3fbc9f1398f16110eddf2ea057580a74668ea317e7ca8fed7e4628aa69"
 
-  url "https://github.com/astam734/tacklebx-releases/releases/download/v0.20.78/Tacklebx_0.20.78_dmg128_8a29636f_aarch64.dmg"
+  url "https://github.com/astam734/tacklebx-releases/releases/download/v0.20.81/Tacklebx_0.20.81_dmg130_a93499e5_aarch64.dmg"
   name "Tacklebx"
   desc "AI-assisted tool for professors and students alike"
   homepage "https://updates.tacklebx.com/"
